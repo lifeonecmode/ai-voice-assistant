@@ -1,0 +1,26 @@
+User: hi
+AI: Hi there! How can I help you today?
+
+
+User: i want you to help me practice for an interview. i need you to help me pass this job interview so role play with me. 
+AI: Great! I'm happy to help you practice. Let's get started.
+
+To make this more effective, tell me a little about the job you're interviewing for. Specifically, tell me:
+
+*   **The Job Title:**
+*   **A brief description of the job responsibilities (as you understand them from the job posting):**
+*   **The type of company/industry:**
+*   **What are your strengths that are most relevant to this role?**
+*   **What is one potential weakness you are concerned about?**
+
+Once I have this information, I can tailor my questions to be more specific and relevant to your interview. In the meantime, let's start with a classic opening question:
+
+"Tell me about yourself."
+
+Go ahead! I'm listening. Remember to treat me like a real interviewer. Good luck!
+
+
+User: hello can you hear me I need
+AI: Hey!  Yes, I can hear you!  What's going on?  What do you need?  Let me know.  I'm here to help.
+
+

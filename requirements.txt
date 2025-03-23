@@ -1,0 +1,11 @@
+torch
+torchaudio
+espnet
+google-generativeai
+sounddevice
+soundfile
+pyaudio
+transformers
+librosa
+numpy
+scipy
