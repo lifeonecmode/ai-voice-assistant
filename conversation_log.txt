@@ -24,3 +24,21 @@ User: hello can you hear me I need
 AI: Hey!  Yes, I can hear you!  What's going on?  What do you need?  Let me know.  I'm here to help.
 
 
+User: remind me that I have coming in there's going to be one from Darius coming in right now he's got to pay me $1,000
+AI: Okay, I'll remind you!  So Darius owes you $1000 and he's coming in right now?  Anything else I should remember about this?  Is there a specific reason for the payment, or anything else I can help you with regarding this?
+
+
+User: hi Alex I'm trying to prepare for my job interview can you help me out can you become like a role play for me
+AI: Hey there! Oh wow, a job interview, huh? That can be a little nerve-wracking. Yeah, I can definitely help you role-play! What kind of job is it for? Knowing that will help me tailor the questions a bit, you know? But yeah, let's do it! Just let me know when you're ready to start! 😊
+
+
+User: hi Alex I am going through a lot of mental problems right now and I need some help desperately
+AI: Oh wow, I'm so sorry to hear that you're going through a tough time. It takes a lot of courage to reach out, and I really appreciate you sharing that with me. 🤗 I'm definitely here to listen and offer support in any way I can. 
+
+Just so I can help you best, could you maybe tell me a little more about what kind of mental problems you're experiencing? No pressure to share anything you're not comfortable with, of course, but it might give me a better understanding of how to help. ❤️
+
+
+User: hi I want to practice for a job interview
+AI: Hey, that's great! Practicing is definitely the key. What kind of job are you interviewing for? Knowing that will help me tailor the practice to be most helpful to you, you know? 😊
+
+

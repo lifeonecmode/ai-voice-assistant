@@ -68,14 +68,14 @@ def capture_audio_macos():
 
 def main():
     # Check for API key
-    api_key = os.environ.get("GEMINI_API_KEY", "")
+    api_key = os.environ.get("GEMINI_API_KEY", "AIzaSyBlVNruum0c5oHrHj3F7x0AVT4qexTD0sE")
     if not api_key:
         print("Please set the GEMINI_API_KEY environment variable and try again.")
         return
 
     # Initialize Gemini
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel("gemini-1.5-flash")
+    model = genai.GenerativeModel("gemini-2.0-flash")
 
     # Initialize speech synthesizer
     engine = pyttsx3.init()
